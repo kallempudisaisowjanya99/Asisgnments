@@ -24,7 +24,7 @@ income = 55000.0;
 isEmployed = true;
 debtToIncomeRatio = 35.0; */
 
-function loneEligible()
+function loneEligible():void
 {
     let customerName = "John Doe";
    let creditScore = 720;
